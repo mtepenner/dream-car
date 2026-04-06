@@ -28,7 +28,7 @@ Since this is a static frontend application with no build steps or dependencies,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/dream-car-generator.git](https://github.com/yourusername/dream-car-generator.git)
+   git clone https://github.com/mtepenner/dream-car.git
    ```
 2. Navigate to the project directory:
    ```bash
